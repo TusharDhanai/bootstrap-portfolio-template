@@ -4,3 +4,5 @@ This is a portfolio template prepared by me, using only bootstrap. If anyone wan
 I may have put a copyright symbol at the bottom, but you can use it if you want.
 
 Consider keeping my name at the bottom, as a way of crediting me as the creator.
+
+## Check it out at this link: [Bootstrap Portfolio Template](https://tushardhanai.github.io/bootstrap-portfolio-template/)
